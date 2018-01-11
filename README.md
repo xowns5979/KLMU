@@ -1,3 +1,3 @@
 # KLMU - Kaist Lab Matcher for Undergraduate
-IE261 Project Homepage
-![screenshot](./screenshot.jpg)
+IE261 Project Homepage<br>
+![screenshot](./screenshot.JPG)
